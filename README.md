@@ -27,4 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trishaghosh15&show_icons=true&locale=en" alt="trishaghosh15" /></p>
 
+![](https://leetcard.Trisha_Ghosh15.cool/lapor?ext=heatmap)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trishaghosh15&" alt="trishaghosh15" /></p>
