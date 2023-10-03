@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **girlstagram**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Competitive Coding**
 
 - 💬 Ask me about **web development, data analytics**
 
